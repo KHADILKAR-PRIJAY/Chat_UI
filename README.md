@@ -6,6 +6,6 @@
 
 # Images
 
-![Screenshot](https://user-images.githubusercontent.com/86222915/127170172-fc777ac5-1a05-4cc2-9855-5befe25bc831.png)
+<img src="https://user-images.githubusercontent.com/86222915/127170172-fc777ac5-1a05-4cc2-9855-5befe25bc831.png"  height="700">
 
 
